@@ -5,7 +5,7 @@ TO THE NEW is recognised by global analyst firms like Gartner, Forrester, Everes
 
 Founded in 2008, TO THE NEW is one of the fastest-growing companies in the IT industry. Our passionate team of 2000+ “Newers” is spread across our delivery centers in Delhi, Dehradun, Dubai, NYC, Singapore, and Sydney. TO THE NEW is a consistent winner of prestigious awards like "Great Place to Work", "India's Best Workplaces in IT & IT-BPM", and "Top 100 Companies in India to Work For".
 
-To know more, visit our [website](https://www.tothenew.com/). You can also follow us on <a href="https://www.linkedin.com/company/tothenew/"><img src="https://img.shields.io/badge/tothenew-mycompany/?style=flat-round&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/tothenew/" alt="Linkedin Badge" ></a>,
+To know more, visit our [website](https://www.tothenew.com/). You can also follow us on <a href="https://www.linkedin.com/company/tothenew/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/company/tothenew&style=flat-round" alt="Linkedin Badge" ></a>,
 <a href="https://twitter.com/intent/follow?screen_name=TOTHENEW&tw_p=followbutton"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-round&logo=twitter&logoColor=white&link=https://twitter.com/TOTHENEW"></a>, &
 <a href="https://www.facebook.com/TOTHENEWDigital/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-round&logo=facebook&logoColor=white&link=https://www.facebook.com/TOTHENEWDigital/"></a>.  
 For general queries drop an email to corporatecommunications@tothenew.com.  
